@@ -11,9 +11,4 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
- def speak_to_grandma
-  return "I LOVE YOU GRANDMA!" 
-    else phrase.upcase 
-    return "I LOVE YOU PUMPKIN!"
-  end
-end
+
