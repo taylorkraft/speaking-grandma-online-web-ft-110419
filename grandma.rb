@@ -14,15 +14,6 @@
  def speak_to_grandma
   return "I LOVE YOU GRANDMA!" 
     elsif phrase.upcase 
-    elsif
-    puts "HUH?! SPEAK UP, SONNY!"
-    elsif
-    puts "HUH?! SPEAK UP, SONNY!"
-    elsif phrase == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
-else 
-  puts "HUH?! SPEAK UP, SONNY!"
+    return "I LOVE YOU PUMPKIN!"
   end
 end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
