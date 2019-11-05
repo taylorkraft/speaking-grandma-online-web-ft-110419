@@ -19,5 +19,4 @@ def speak_to_grandma(string)
         return "I LOVE YOU TOO PUMPKIN!"
       end
     end
-      
-speak_to_grandma("I LOVE GRANDMA")
+    
