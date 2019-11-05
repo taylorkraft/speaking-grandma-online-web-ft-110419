@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
  def speak_to_grandma
   return "I LOVE YOU GRANDMA!" 
-    elsif phrase.upcase 
+    else phrase.upcase 
     return "I LOVE YOU PUMPKIN!"
   end
 end
