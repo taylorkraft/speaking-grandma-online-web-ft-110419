@@ -21,3 +21,5 @@ def speak_to_grandma(string)
       end
     end
       
+speak_to_grandma("I LOVE YOU GRANDMA!")
+speak_to_grandma("Hi Nana, how are you?")
